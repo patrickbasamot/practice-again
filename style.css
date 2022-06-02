@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.register-form {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    width: 20%;
+  }
+
+input{
+    margin: 0.5em 0 0.5em 0;
+}
